@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header_box {
+    width: 1, 140px;
+    padding: 12px 80px 3px;
+    margin-bottom: 67px;
+
+}
+
+#logo {
+    width: 146, 68px;
+    height: 21.02px;
+    padding: 13.49;
+}
+
+#header_div {
+    width: 343px;
+    display: inline-block;
+    margin-left: 179.17px;
+    margin-right: 179.17px;
+
+}
+
+#pro {
+    font-weight: 400;
+    font-size: 18px;
+    color: #323232;
+    margin-right: 20px;
+}
+
+#servise {
+    font-weight: 400;
+    font-size: 18px;
+    color: #323232;
+    margin-right: 20px;
+}
+
+#resources {
+    font-weight: 400;
+    font-size: 18px;
+    color: #323232;
+    margin-right: 20px;
+}
+
+#off {
+    font-weight: 400;
+    font-size: 18px;
+    color: #323232;
+}
+
+#header_button {
+    width: 105px;
+    height: 33px;
+    border-radius: 8px;
+    border: 1px solid #ac00ff;
+    background-color: #e9d7fe;
+    padding: 8px 16px;
+    color: #ac00ff;
+    text-align: center;
+}
+
+/* main */
+
+#main_box {
+    width: 841px;
+    margin-left: 214px;
+}
+
+#div_h {
+    width: 720px;
+}
+
+h1 {
+    font-size: 64px;
+    line-height: 74px;
+    font-weight: 400;
+    color: #323232;
+    margin-bottom: 24px;
+}
+
+#main_p {
+    width: 100%;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #323232;
+    margin-bottom: 24px;
+}
+
+#main_button {
+    width: 204px;
+    height: 54px;
+    padding: 16px 24px;
+    background-color: #5c3bae;
+    border-radius: 8px;
+    border: 1px solid #5c3bae;
+}
+
+#button_link {
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+#main_img {
+    margin-left: 24px;
+    margin-right: 12px;
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+}
+
+#main_link {
+    width: 150px;
+    font-weight: 500;
+    font-size: 18px;
+    font-style: solid;
+    color: #4d3491;
+}
+
+/*  bolooo */
+
+#bolo_img {
+    width: 1, 311px;
+    height: 761px;
+    margin-top: -128px;
+    margin-left: 210px;
+}
